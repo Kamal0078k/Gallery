@@ -10,7 +10,7 @@ Gallery is a web application built with the MERN stack. Users can sign up for an
 + Node provides the backend environment for this application. <br/>
 + Express middleware is used to handle requests, routes. <br/>
 + Mongoose schemas to model the application data. <br/>
-+ MOngoDb to store data. <br/>
++ Mongo Atlas to store data. <br/>
 + React for displaying UI components. <br/>
 
 ## Configuration and setup
@@ -23,14 +23,14 @@ In order to run this project locally,  clone the repository or download as zip a
 + Install all the dependencies <br/>
 
  #### Dependencies used in this project:
-+ express <br/>
-+ mongoose <br/>
-+ bcryptjs (for data encryption) <br/>
-+ morgan <br/>
-+ multer <br/>
-+ nodemon <br/>
-+ dotenv <br/>
-+ cors <br/>
+> express <br/>
+> mongoose <br/>
+> bcryptjs (for data encryption) <br/>
+> morgan <br/>
+> multer <br/>
+> nodemon <br/>
+> dotenv <br/>
+> cors <br/>
 
 To start the sever run the following command <br/>
 ```
