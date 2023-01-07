@@ -46,5 +46,9 @@ To run the react project <br/>
 $ npm start
 ```
 
-## Images
-![alt text](https://github.com/[Kamal0078k]/[Gallery]/blob/[master]/ss1.png?raw=true)
+## Images <br/>
+![ss1](https://user-images.githubusercontent.com/104195391/211162510-5a65c6a2-dd0b-4511-ae36-fdb4f7269092.png)
+![ss2](https://user-images.githubusercontent.com/104195391/211162525-830c8b53-0772-451e-b9a6-058e89e476cc.png)
+ 
+![ss3](https://user-images.githubusercontent.com/104195391/211162531-a41e7dc2-8d4f-42de-b20d-a234692b40be.png)
+
