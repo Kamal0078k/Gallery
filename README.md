@@ -21,7 +21,7 @@ In order to run this project locally,  clone the repository or download as zip a
 ### Back-end
 + Open API folder in terminal (like VS code) and run `npm install` command <br/> 
 + Install all the dependencies <br/>
- ##Tecg
+
  #### Dependencies used in this project:
 + express <br/>
 + mongoose <br/>
